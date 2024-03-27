@@ -1,0 +1,15 @@
+FREC:
+2387.2045840826
+Numar microsecunde pentru alocare statica:
+17.8429999073
+Numar microsecunde pentru initializarea sirului alocat static:
+4994.0720000109
+Numar microsecunde pentru completare task pe sir alocat static cu 10 Thread-uri:
+9119.9000000870
+Numarul de microsecunde pentru alocare dinamica:
+5610.8730000074
+Numar microsecunde pentru initializarea sirului alocat dinamic:
+4592.3800000128
+Numar microsecunde pentru completare task pe sir alocat dinamic cu 10 Thread-uri:
+5.6108730000
+

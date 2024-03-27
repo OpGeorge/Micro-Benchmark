@@ -1,0 +1,13 @@
+JAVA
+Numar milisecunde pentru alocare statica: 
+ 35.792157
+Numar milisecunde pentru initalizarea sirului alocat static: 
+216.778069
+Numar milisecunde pentru completare task pe sir alocat static cu 12 Thread-uri: 
+5030.2809643000
+Numarul de milisecunde pentru alocare dinamica: 
+2774.5876491000
+Numar milisecunde pentru initalizarea sirului alocat dinamic: 
+83.8977403930
+Numar milisecunde pentru completare task pe sir alocat dinamic cu 12 Thread-uri: 
+1956.0501083000
